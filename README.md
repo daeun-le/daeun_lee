@@ -19,6 +19,7 @@
 - **[석사 학위 논문] 다양한 가설 검정 방법에서의 유의성 분석에 대한 효과크기 계산 및 app 구현**(https://shinnylee.shinyapps.io/EffectSizeCalculator/)
 - **기대수명 데이터를 이용한 분류 학습 및 시각화** - PCA & k-means, LDA/RF, touring
 - **[BIGCON] 예술의 전당 공연 예매 데이터를 이용한 공연 장르별 새로운 좌석 그룹화 및 시각화** - PCA & k-means
+- [**[BIGCON] 예술의 전당 공연 예매 데이터를 이용한 공연 장르별 새로운 좌석 그룹화 및 시각화**](https://leebo-ram.github.io/Navbar/)
 - **보험 고객 데이터를 이용한 보험 해지 확률 계산 및 app 구현** - GLM/GAM, LDA/KNN/SVM/RF/XGB
 - **Using MCMC to break classical ciphers** - 논문 구현
 - **[데이콘] 신용카드 사기 거래 탐지 AI 경진대회**
