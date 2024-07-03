@@ -27,6 +27,6 @@
 
 ## ✏ 교육 및 발표
 - Google ML Bootcamp 2024 - ing
-- 2024년 한국통계학회 하계학술논문발표회 - 포스터세션
+- [2024년 한국통계학회 하계학술논문발표회 - 포스터세션](https://github.com/daeun-le/2024KSS/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%80_%ED%86%B5%EA%B3%84%ED%95%99%ED%9A%8C_%ED%8F%AC%EC%8A%A4%ED%84%B0%EC%84%B8%EC%85%98.pdf)
 
 
