@@ -23,7 +23,10 @@
 - **Using MCMC to break classical ciphers** - 논문 구현
 - **[데이콘] 신용카드 사기 거래 탐지 AI 경진대회**
 
+<br>
 
+## ✏ 교육
+- Google ML Bootcamp 2024 - ing
 
 
 
