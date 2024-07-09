@@ -15,6 +15,11 @@
 
 <br>
 
+## ✅portfolio
+- [**통계 및 데이터 분석 포트폴리오**](https://github.com/daeun-le/portfolio/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%9D%B4%EB%8B%A4%EC%9D%80.pdf)
+
+<br>
+
 ## 📑data project
 - [**[석사 학위 논문] 다양한 가설 검정 방법에서의 유의성 분석에 대한 효과크기 계산 및 app 구현**](https://shinnylee.shinyapps.io/EffectSizeCalculator/)
 - [**기대수명 데이터를 이용한 분류 학습 및 시각화**](https://github.com/daeun-le/Life-expectancy_classification/blob/main/%EB%B6%84%EB%A5%98%ED%95%99%EC%8A%B5%20%EB%B0%8F%20%EC%8B%9C%EA%B0%81%ED%99%94.pdf) - PCA & k-means, LDA/RF, touring
